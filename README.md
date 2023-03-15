@@ -136,7 +136,7 @@ You can see clearly about the website License.
 
 ## How much does Python language take to learn completely? 
 
-So, the language Python has many type of courses like [Python-Core](https://www.python.org/dev/core-mentorship/) - You can see what comes under it, A beginner will take about 6-8 weeks to learn the fundamentals of Python. It takes that much time to learn how to understand most lines of code in Python. It would take significantly more time learning Python to move into a new career as a Python Developer.
+So, the language Python has many type of courses like [Python-Core](https://www.python.org/dev/core-mentorship/) - You can see what comes under it, A beginner will take about 6-8 weeks to learn the fundamentals of Python. It takes that much time to learn how to understand most lines of code in Python. It would take significantly more time learning Python to move into a new career as a Python Developer, thank you.
 
 Now come up to [Advance-Python](https://python-course.eu/advanced-python/) - Different estimates show it could take anywhere from three to 12 months to learn Python for data science. It can take longer than more general Python learning because Data Scientists use Python differently than a programmer would.
 
